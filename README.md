@@ -1,4 +1,4 @@
-# hotelreservation
+
 # HotelReservation - A Java project for hotel reservation management
 
 This is a `java` application for booking hotel rooms which I developed for the Udacity's [Java Programming Course](https://www.udacity.com/course/java-programming-nanodegree--nd079).
